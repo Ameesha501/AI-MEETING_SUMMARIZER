@@ -3,7 +3,6 @@ fastapi==0.111.0
 uvicorn[standard]==0.29.0
 
 # Speech-to-text (includes torch as a transitive dependency)
-openai-whisper==20231117
 imageio-ffmpeg==0.6.0
 
 # Summarization
